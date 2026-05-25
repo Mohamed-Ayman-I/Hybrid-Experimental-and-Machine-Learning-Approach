@@ -1,5 +1,5 @@
 # Hybrid-Experimental-and-Machine-Learning-Approach
-This repository includes all the resources (datasets, and codes) developed for the study title "A Hybrid Experimental and Machine Learning Framework for Designing and Predicting Compressive Strength of Ultra-High-Performance Concrete" authored by Mohamed Ayman, and Amr ElNemr
+This repository includes all the resources (datasets, and codes) developed for the study title "A Hybrid Experimental and Machine Learning Framework for Designing and Predicting Compressive Strength of Ultra-High-Performance Concrete" authored by Mohamed Ayman, and Prof. Amr ElNemr
 
 This "read me" describes the resources and provides a brief abstract for the work performed.
 # Abstract
