@@ -2,7 +2,8 @@
 This repository includes all the resources (datasets, and codes) developed for the study title "A Hybrid Experimental and Machine Learning Framework for Designing and Predicting Compressive Strength of Ultra-High-Performance Concrete" authored by Mohamed Ayman, and Prof. Amr ElNemr
 
 This "read me" describes the resources and provides a brief abstract for the work performed.
-**All Codes have been developed using "PyCharm 2025.1.2", All Files uploaded as ".py" and ".ipynp"**
+**All Codes have been developed using "PyCharm 2025.1.2", All Files uploaded as ".py"**
+
 # Resources Describtion
 # 1 - Data
 Three data files are available:
@@ -10,6 +11,9 @@ A) Raw_Dataset.csv: This contains the raw compiled dataset prior to any filtrati
 B) Dataset_Clean.csv: This contains manually filtered data as described in 3.1 Dataset Development
 C) Filtered_Dataset.csv: This contains the final dataset prior to all filteration and outliers removal with 550 comrpessive strength results.
 # 2- Codes
+Full Project running as one code is available in the **Full Project Code** Folder
+
+Separate Codes for Each Project Phase are Available in **Separate Codes Folder**
 A) Outliers Removal: This folder contains the code used to remove outliers in the preprocessing phase. **Dataset (B) Dataset_Clean.csv Was Used**.
 **The Following Codes Used Dataset (C) Filtered_Dataset.csv**
 B) Tree Models: This folder contains two codes; one for non-optimized models, and the other is for optimized models.
