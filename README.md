@@ -2,8 +2,7 @@
 This repository includes all the resources (datasets, and codes) developed for the study title "A Hybrid Experimental and Machine Learning Framework for Designing and Predicting Compressive Strength of Ultra-High-Performance Concrete" authored by Mohamed Ayman, and Prof. Amr ElNemr
 
 This "read me" describes the resources and provides a brief abstract for the work performed.
-**All Codes have been developed using "PyCharm 2025.1.2", All Files uploaded as ".py" , ".ipynp" version is available in Jupyter Notebooks Folder"**
-
+**All Codes have been developed using "PyCharm 2025.1.2", All Files uploaded as ".py" and ".ipynp"**
 # Resources Describtion
 # 1 - Data
 Three data files are available:
