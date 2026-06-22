@@ -1,0 +1,3 @@
+1- "Raw_Dataset.csv", initially compiled dataset with 1765 compressive strength results.
+2- "Dataset_Clean.csv", dataset after going through manual filtration process.
+3- "Filtered_Dataset.csv" final dataset prior to outliers removal.
